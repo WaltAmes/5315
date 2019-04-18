@@ -1,124 +1,138 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "make": "Suzuki",
+      "model": "V-Strom 650",
+      "price": "$8,799",
+      "origin": "Japan",
+      "type": "Adventure", 
+      "cylinders": "2",
+      "horsepower": "74"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "make": "Triumph",
+      "model": "Tiger",
+      "price": "$11,999",
+      "origin": "U.K.",
+      "type": "Adventure", 
+      "cylinders": "3",
+      "horsepower": "105"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "make": "KTM",
+      "model": "1090 Adventure R",
+      "price": "$13,999",
+      "origin": "Austria",
+      "type": "Adventure", 
+      "cylinders": "2",
+      "horsepower": "110"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "make": "Kawasaki",
+      "model": "KLR 650",
+      "price": "$6,499",
+      "origin": "Japan",
+      "type": "Adventure", 
+      "cylinders": "1",
+      "horsepower": "38"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "make": "Yamaha",
+      "model": "Tracer 700",
+      "price": "$7,999",
+      "origin": "Japan",
+      "type": "Adventure", 
+      "cylinders": "2",
+      "horsepower": "76"
+    },
+    {"make": "Ducati",
+      "model": "Hyperstrada",
+      "price": "$12,599",
+      "origin": "Italy",
+      "type": "Adventure", 
+      "cylinders": "2",
+      "horsepower": "115"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "make": "BMW",
+      "model": "F800GS Adventure",
+      "price": "$13,895",
+      "origin": "Germany",
+      "type": "Adventure", 
+      "cylinders": "2",
+      "horsepower": "85"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "make": "Honda",
+      "model": "NC750",
+      "price": "$7,499",
+      "origin": "Japan",
+      "type": "Adventure", 
+      "cylinders": "2",
+      "horsepower": "55"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "make": "Ducati",
+      "model": "Monster",
+      "price": "$10,599",
+      "origin": "Italy",
+      "type": "Naked", 
+      "cylinders": "2",
+      "horsepower": "87"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "make": "Triumph",
+      "model": "Speed Triple",
+      "price": "$12,999",
+      "origin": "U.K.",
+      "type": "Naked", 
+      "cylinders": "3",
+      "horsepower": "140"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "make": "Triumph",
+      "model": "Thruxton R",
+      "price": "$13,999",
+      "origin": "U.K.",
+      "type": "Classic", 
+      "cylinders": "2",
+      "horsepower": "110"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "make": "Suzuki",
+      "model": "V-Strom 1000",
+      "price": "$11,799",
+      "origin": "Japan",
+      "type": "Adventure", 
+      "cylinders": "2",
+      "horsepower": "100"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "make": "Honda",
+      "model": "RC213V-S",
+      "price": "$184,000",
+      "origin": "Japan",
+      "type": "Sport", 
+      "cylinders": "4",
+      "horsepower": "157"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+  	  "make": "Triumph",
+      "model": "Street Triple",
+      "price": "$9,999",
+      "origin": "U.K.",
+      "type": "Naked", 
+      "cylinders": "3",
+      "horsepower": "105"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
-    },
-    {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "make": "Honda",
+      "model": "CB500F",
+      "price": "$5,500",
+      "origin": "Japan",
+      "type": "Naked", 
+      "cylinders": "2",
+      "horsepower": "47"
     }
   ]
 }

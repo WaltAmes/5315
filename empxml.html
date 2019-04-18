@@ -18,12 +18,13 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('name').text(),
-                $(this).find('designation').text(),
-                $(this).find('office').text(),
-                $(this).find('extension').text(),
-                $(this).find('joining_date').text(),
-                $(this).find('salary').text()
+                $(this).find('make').text(),
+                $(this).find('model').text(),
+                $(this).find('price').text(),
+                $(this).find('origin').text(),
+                $(this).find('type').text(),
+                $(this).find('cylinders').text(),
+                $(this).find('horsepower').text()
               ] ).draw( false );
              });
             }
@@ -36,23 +37,25 @@
   <table id="chart" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>Make</th>
+            <th>Model</th>
+            <th>Price</th>
+            <th>Origin</th>
+            <th>Type</th>
+            <th>Cylinders</th>
+            <th>Horsepower</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>Make</th>
+            <th>Model</th>
+            <th>Price</th>
+            <th>Origin</th>
+            <th>Type</th>
+            <th>Cylinders</th>
+            <th>Horsepower</th>
         </tr>
     </tfoot>
   </table>
